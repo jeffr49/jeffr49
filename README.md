@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeffr49](https://github.com/jeffr49)
+- 👨‍💻 All of my projects are available in my profile and the top ones are pinned below.
 
 - 📄 Know about my experiences here in my [resume](https://drive.google.com/file/d/1kcJA70bs7FRxMqPQqAMnvqXAhOhFb3m8/view?usp=sharing)
 
