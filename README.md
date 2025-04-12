@@ -5,8 +5,7 @@
 
 - 👨‍💻 All of my projects are available in my profile and the top ones are pinned below.
 
-- 📄 Know about my experiences here in my [resume](https://drive.google.com/file/d/1kcJA70bs7FRxMqPQqAMnvqXAhOhFb3m8/view?usp=sharing)
-
+- 📄 Know about my experiences here in my [resume](https://drive.google.com/file/d/1H1FWxVhHpTby6MoMap_GVnOO0rEWYhZd/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeffrey-rufus-506446287/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeffrey-rufus-506446287/" height="30" width="40" /></a>
