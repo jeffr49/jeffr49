@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Rufus.</h1>
-<h3 align="center">A dedicated student specializing in Machine Learning, Artificial Intelligence, and Web Development</h3>
+<h3 align="center">A dedicated student specializing in Machine Learning, Artificial Intelligence, and Agentic AI Frameworks</h3>
 
 - 🌱 I’m currently learning **Retrieval-Augmented Generation and Agentic Frameworks**
 
